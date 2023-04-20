@@ -1,5 +1,5 @@
 # 271pack
-### This minecraft resource pack was created by me using [vanillatweaks](https://vanillatweaks.net/picker/resource-packs/) and [HighContrastExtended](https://www.planetminecraft.com/texture-pack/high-contrast-extended/).
+### This minecraft resource pack was created by me using [vanillatweaks](https://vanillatweaks.net/picker/resource-packs/) and [HighContrastExtended](https://www.planetminecraft.com/texture-pack/high-contrast-extended/). Also, some stuff is self-made.
 
 Features:
   - 3D Blocks, Items and more
