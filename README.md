@@ -2,9 +2,12 @@
 ### This minecraft resource pack was created by me using [vanillatweaks](https://vanillatweaks.net/picker/resource-packs/) and [HighContrastExtended](https://www.planetminecraft.com/texture-pack/high-contrast-extended/). Also, some stuff is self-made.
 
 Features:
-  - 3D Blocks, Items and more
-  - Some fixes like corrected item holding
-  ... and much more!
+  - Inbuild resource efficient shaders
+  - New Button & GUI design (High Contrast style)
+  - Title screen themes
+  - High-Resolution Font
+  - Bug fixes like corrected item holding
+  and much more!
 
 
 Variants of the resourcepack with different menu backgrounds are provided.
