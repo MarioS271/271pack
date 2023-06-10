@@ -11,6 +11,7 @@ Features:
 
 
 Variants of the resourcepack with different menu backgrounds are provided.
+## NOTE: THE RESOURCE PACK NEEDS FANCY GRAPHICS FOR SOME THINGS TO WORK PROPERLY!!!
 
 Background images from:
   - [WallpaperAccess](https://wallpaperaccess.com/minecraft)
