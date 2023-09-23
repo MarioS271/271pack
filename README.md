@@ -9,7 +9,7 @@ Features:
   - Bug fixes like corrected item holding
   and much more!
 
-### NOTE: THE RESOURCE PACK NEEDS FANCY GRAPHICS FOR SOME THINGS TO WORK PROPERLY!!!
+### IMPORTANT: THE RESOURCE PACK NEEDS FANCY GRAPHICS FOR SOME THINGS TO WORK PROPERLY!!!
 
 #### UPDATE TO VERSION 6.0: Replaced High Contrast Theme with Dark Theme, added variated textures for menu background depending on current theme
 ### UPDATE TO 1.20.2: Added new backgrounds
