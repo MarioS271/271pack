@@ -20,6 +20,7 @@ Features:
 #### UPDATE TO VERSION 7.0 (1.20.2): Added new backgrounds, retired high resolution font (idk, felt like it + old font style look good anyway), changed a few other things
 <br>
 <br>
+
 Background images from:
   - [WallpaperAccess](https://wallpaperaccess.com/minecraft)
   - [Google](https://www.google.com/search?q=hd+minecraft+wallpapers)
