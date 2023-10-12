@@ -17,8 +17,9 @@ Features:
 <br>
 
 ### CHANGELOG
-#### UPDATE TO VERSION 6.0: Replaced High Contrast Theme with Dark Theme, added variated textures for menu background depending on current theme
+#### UPDATE TO VERSION 6.0 (1.20.1): Replaced High Contrast Theme with Dark Theme, added variated textures for menu background depending on current theme
 #### UPDATE TO VERSION 7.0 (1.20.2): Added new backgrounds, retired high resolution font (idk, felt like it + old font style look good anyway), changed a few other things
+#### UPDATE TO VERSION 7.1 (1.20.2): Added new splashes, changed icon 'incompatible' from sad smiley to information icon as custom messages from servers have the incompatible icon with them (and pretty much every serer already uses these mechanics)
 <br>
 <br>
 
