@@ -1,5 +1,6 @@
 # 271pack
 ## This minecraft resource pack was created by me using [vanillatweaks](https://vanillatweaks.net/picker/resource-packs/) (3D Item Models, Dark UI, ...) and a few self-made resources (mostly HUD and GUI stuff).
+### (But I gotta give most of my credit to vanillatweaks as 90% of this pack consists of their wonderful work 😊)
 <br>
 
 Features:
@@ -24,6 +25,7 @@ Requirements:
 #### UPDATE TO VERSION 7.0 (1.20.2): Added new backgrounds, retired high resolution font (idk, felt like it + old font style look good anyway), changed a few other things
 #### UPDATE TO VERSION 7.1 (1.20.2): Added new splashes, changed icon 'incompatible' from sad smiley to information icon as custom messages from servers have the incompatible icon with them (and pretty much every serer already uses these mechanics)
 #### UPDATE TO VERSION 7.2 (1.20.2): Fixed bug of villager trading GUI stretching weirdly, shorted some splashes, added new 'default' variation where the title screen isn't overwritten with any image
+#### UPDATE TO VERSION 8.0 (1.20 - 1.20.2): Changed selection of vanillatweaks features, added backwards support for 1.20 and 1.20.1, improved pack.png and metadata
 <br>
 <br>
 
