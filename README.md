@@ -1,6 +1,6 @@
 # 271pack
 ## This minecraft resource pack was created by me using [vanillatweaks](https://vanillatweaks.net/picker/resource-packs/) (3D Item Models, Dark UI, ...) and a few self-made resources (mostly HUD and GUI stuff).
-### (But I gotta give most of my credit to vanillatweaks as 90% of this pack consists of their wonderful work 😊)
+### (But I gotta give most of my credit to vanillatweaks as about 90% of this pack consists of their wonderful work 😊)
 <br>
 
 Features:
