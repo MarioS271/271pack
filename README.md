@@ -27,6 +27,7 @@ Requirements:
 #### UPDATE TO VERSION 7.2 (1.20.2): Fixed bug of villager trading GUI stretching weirdly, shorted some splashes, added new 'default' variation where the title screen isn't overwritten with any image
 #### UPDATE TO VERSION 8.0 (1.20 - 1.20.2): Changed selection of vanillatweaks features, added backwards support for 1.20 and 1.20.1, improved pack.png and metadata, implemented high resolution font AGAIN
 #### UPDATE TO VERSION 8.1 (1.20 - 1.20.2): Made Minecarts more slient
+#### UPDATE TO VERSION 8.2 (1.20 - 1.20.4): Added Support for 1.20.3 and 1.20.4, fixed glitched villager trading GUI
 <br>
 <br>
 
