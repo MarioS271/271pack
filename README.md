@@ -4,16 +4,12 @@
 <br>
 
 Features:
-  - Small inbuilt resource efficient shaders (Wavy Plants & Wavy Water) [REQUIRES FANCY GRAHPICS]
+  - Wavy Plants & Wavy Water [REQUIRES FANCY GRAHPICS]
   - New Button & GUI design (Dark Theme)
   - Title screen & menu themes
   - High-Resolution Font
   - Bug fixes like corrected item holding
-  and much more!
-<br>
-Requirements:
-  - For shaders: Fancy Graphics (Optional, will just turn off if on fast)
-  - Fancy grahpics for leaves recommended, as they render weirdly when put on fast
+and much more!
 <br>
 
 ### IMPORTANT: THE RESOURCE PACK NEEDS FANCY GRAPHICS FOR SOME THINGS TO WORK PROPERLY!!!
