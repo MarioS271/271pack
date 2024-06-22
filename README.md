@@ -7,8 +7,6 @@ A small, neat resource pack for minecraft. Made using Vanillatweaks.
 <br>
 <br>
 <hr>
-<br>
-
 ```
 Credits:
 Vanilla Tweaks: https://vanillatweaks.net/
