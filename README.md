@@ -1,5 +1,4 @@
-# 271pack
-## A small, neat resource pack for minecraft. Made using [Vanillatweaks](https://vanillatweaks.net).
+# <p>271pack:</p><p>A small, neat resource pack for minecraft. Made using [Vanillatweaks](https://vanillatweaks.net).</p>
 
 <br>
 <br>
