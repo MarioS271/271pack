@@ -1,7 +1,6 @@
 # <p>271pack</p><p>A small, neat resource pack for minecraft. Made using [Vanillatweaks](https://vanillatweaks.net).</p>
 
 <br>
-<br>
 
 ## UPDATE HISTORY:
 #### v9.0 (MC 1.21): Remade GitHub Repository and made installer
