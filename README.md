@@ -1,4 +1,4 @@
-# <p>271pack</p><p>A small, neat resource pack for minecraft. Made using [Vanillatweaks](https://vanillatweaks.net).</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioS271&theme=tokyonight&repo=271pack)](https://github.com/MarioS271/271pack)
 
 <br>
 
